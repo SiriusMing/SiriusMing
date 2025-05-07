@@ -3,10 +3,13 @@
   Profile README for SiriusMing (Mingming)
   Optimized with a blue theme, badges, intro, and online images.
 -->
-
 <p align="center">
-  <!-- Blue tech banner from Unsplash -->
-  <img src="https://c-ssl.duitang.com/uploads/blog/202501/07/GgSYPMOACdM3vm6.jpeg" alt="Blue Tech Banner" width="100%" />
+  <img 
+    src="https://c-ssl.duitang.com/uploads/blog/202411/16/vDSyB4jTdmYX61.jpeg" 
+    width="100%"
+    style="opacity: 0.8; border-radius: 8px;"
+    alt="Banner"
+  />
 </p>
 
 <h1 align="center">
@@ -41,9 +44,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/SPSS-2E82B2?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
@@ -81,5 +84,7 @@
 <p align="center">
   Made with ❤️ by Mingming • Last update: 2025-05-07
 </p>
+
+</div>
 
 
