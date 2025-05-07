@@ -5,7 +5,7 @@
 -->
 <p align="center">
   <img 
-    src="https://c-ssl.duitang.com/uploads/blog/202411/16/vDSyB4jTdmYX61.jpeg" 
+    src="https://github.com/SiriusMing/web-picture/blob/main/miyu.jpg?raw=true" 
     width="100%"
     style="opacity: 0.8; border-radius: 8px;"
     alt="Banner"
