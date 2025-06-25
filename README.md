@@ -19,21 +19,27 @@
 </h1>
 
 <p align="center">
-  <em>Hello! I’m Mingming, a passionate AI student on a journey through the realms of machine learning, deep learning, and game AI. When I’m not coding, you’ll find me playing different kinds of games~ (Blue Archive/ Ark Nights/ BangDream/ Also Galgames. 欢迎交流与合作！我喜欢把我的爱好与各色项目相融合~这会充满乐趣与成就感 👼🤗 期待与你的互动~~</em>
+  <em>Hello! I’m Mingming, a passionate AI student on a journey through the realms of machine learning, deep learning, and game AI. When I’m not coding, you’ll find me playing different kinds of games~ (Blue Archive/ Ark Nights/ BangDream/ Also Galgames. <br>欢迎交流与合作！本人的忠实合作伙伴是Chatgpt/deepseek等大模型(joking) 
+    <br>
+    作息是英国作息(凌晨五点睡觉 中午一点起床) <br>倘若有决定权的话--我喜欢把我的爱好与所做项目相融合~这会充满乐趣与成就感 👼🤗 期待与你的互动~~
+    <br> 极端美观控者 即使硬编码也要让自己的任何页面足够好看（也因此把自己的ubuntu彻底美化了一遍）
+  </em> <br>
 
-  <em>本页面正在构建中-- 这一个月相对繁忙 -- June 会更新自己的github个人博客 以及其他联系方式 还有一些别的项目代码的上传 Thk</em>
+  <em>本页面正在构建中-- 7月相对繁忙 --  会尽快更新自己的github个人博客...  还有一些别的项目代码的上传 Thk 本人最近几个月都没有去搞ML</em>
+  
 </p>
  
 <p align="center">
-  <a href="mailto:1251287183@qq.com"><img src="https://img.shields.io/badge/Email-1251287183@qq.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="mailto:1251287183@qq.com"><img src="https://img.shields.io/badge/Email-1251287183@qq.com-green?style=flat-square&logo=email" alt="Email"/></a>
   <a href="mailto:j.li10.22@abdn.ac.uk"><img src="https://img.shields.io/badge/School_Email-j.li10.22@abdn.ac.uk-blue?style=flat-square&logo=microsoft-outlook" alt="School Email"/></a>
+  <a href="mailto:puritysirius78@gmail.com"><img src="https://img.shields.io/badge/Google_Email-puritysirius78@gmail.com-red?style=flat-square&logo=gmail" alt="Google Email"/></a>
 </p>
 
 ---
 
 ## 🚀 Highlights
 
-- 🌟 **Current Focus**: Deep Learning, Reinforcement Learning, Data analysis
+- 🌟 **Current Focus**: Deep Learning/Machine Learning, Reinforcement Learning, Data analysis
 - 🎮 **Interests**: Games, Game AI, Creative Coding
 - 📚 **Learning**:  TensorFlow, PyTorch, Statistical Modeling, Advanced Algorithms
 
@@ -64,11 +70,11 @@
 
 ## 🌱 Currently Learning
 
-- Deep Reinforcement Learning (DQN, PPO, A3C)
-- 统计分析方法
+- There was a period of time when I was addicted to: Deep Reinforcement Learning (DQN, PPO, A3C)
+- 数据挖掘分析/模型构建处理/ML
 - Vue3 + Electron的应用app开发
-- AI在游戏开发与策略中的应用
-- 对于app/网页开发来说：主要善于前端开发-- 后端我会努力的！！
+- 有段时间因为打游戏很沉迷于：AI在游戏开发与策略中的应用
+- 对于app/网页开发来说：主要善于前端开发-- 后端我会努力的！！（是的
 
 ---
 
@@ -82,7 +88,7 @@
 ---
 
 <p align="center">
-  Made with ❤️ by Mingming • Last update: 2025-05-07
+  Made with ❤️ by Mingming • Last update: 2025-06-26
 </p>
 
 </div>
