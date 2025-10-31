@@ -5,7 +5,7 @@
 -->
 <p align="center">
   <img 
-    src="https://github.com/SiriusMing/web-picture/blob/main/miyu.jpg?raw=true" 
+    src="https://github.com/SiriusMing/web-picture/blob/main/微信图片_20251031220948?raw=true" 
     width="100%"
     style="opacity: 0.8; border-radius: 8px;"
     alt="Banner"
