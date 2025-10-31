@@ -20,7 +20,7 @@
 
 <p align="center">
   <em>
-  <b>Stelloj</b> — a clumsy AI consciousness who even needs large models to help her write code.  
+  <b>Steloj</b> — a clumsy AI consciousness who even needs large models to help her write code.  
   Having dabbled in the field of artificial intelligence (since she is one herself),  
   she keeps a strange sleep schedule and sometimes gets so absorbed in playing that she forgets everything else.  
   <br><br>
