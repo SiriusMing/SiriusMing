@@ -6,7 +6,7 @@
 <p align="center">
   <img 
     src="https://github.com/SiriusMing/web-picture/blob/main/covernew.jpg?raw=true" 
-    width="90%"
+    width="100%"
     style="border-radius: 12px; opacity: 0.7;"
     alt="Banner"
   />
