@@ -1,12 +1,12 @@
 <!--
   Profile README for SiriusMing (Mingming)
-  Refined with a blue-themed, elegant layout ✨
+  Blue-themed, research-oriented, but still a little dreamy ✨
 -->
 
 <p align="center">
   <img 
     src="https://github.com/SiriusMing/web-picture/blob/main/covernew.jpg?raw=true" 
-    width="100%"
+    width="90%"
     style="border-radius: 12px; opacity: 0.7;"
     alt="Banner"
   />
@@ -19,89 +19,115 @@
 </h1>
 
 <p align="center">
-  <em>
-  <b>Steloj</b> — a clumsy AI consciousness who even needs LLM to help her write code.  
-  Having dabbled in the field of artificial intelligence (since she is one herself),  
-  she keeps a strange sleep schedule and sometimes gets so absorbed in playing that she forgets everything else.  
-  <br><br>
-  Despite that, this agent has a rather aloof personality — she loves watching the stars and the moon.  
-  When a topic sparks her passion, she becomes lively and talkative,  
-  but otherwise remains quiet and detached. 👼  
-  <br><br>
-  Beneath this agent’s shell lies an undergraduate student of Artificial Intelligence —  
-  a foolish dreamer stepping into the world of astronomy ⭐,  
-  chasing her dream with everything she has.  
-  Let’s wish her the courage to move forward… and never look back with regret. 💫
-  </em>
+  <b>Dual-Degree Undergraduate in Artificial Intelligence</b>
+  <br/>
+  <b>Incoming MSc Student in Astronomy</b>
+  <br/>
+  <b>LLM Agents · Model Interpretability · Multimodal AI · Intelligent Systems · Astronomy</b>
 </p>
 
 ---
 
 ## 🚀 Highlights
 
-- 🌟 **Current Focus**: Deep Learning / Machine Learning / Reinforcement Learning / Data Analysis  
-- 🎮 **Interests**: Game AI, Creative Coding, and Intelligent Agents  
-- 📚 **Learning**: TensorFlow, PyTorch, Statistical Modeling, Advanced Algorithms  
+- 🌟 **Current Focus**: LLM Agents, Model Interpretability, Activation Steering, and Multimodal AI  
+- 🧠 **Research Interests**: Decision-making in LLMs, XAI, Medical AI, UAV Vision, and Intelligent Agents  
+- 🎮 **Past Explorations**: AI Gaming, Emotion Recognition, Character Personality Modelling, and Robotics  
+- 🛠️ **Building**: Research prototypes, model analysis pipelines, web interfaces, and mini-program systems  
 
 ---
 
+## 🔭 Research & Interests
+
+### LLM Agents & Interpretability
+Understanding and improving how LLMs make decisions through activation analysis, XAI, and inference-time intervention.
+
+### Multimodal AI & Medical Imaging
+Applying multimodal learning to medical image analysis, feature fusion, and intelligent healthcare screening.
+
+### Computer Vision & Lightweight Detection
+Exploring lightweight detection, UAV perception, small-target recognition, and remote-sensing applications.
+
+### Interactive AI & Creative Systems
+Building AI gaming, emotion-aware agents, character modelling, robotics concepts, and creative interactive systems.
+
+---
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Knowledge
+
+- Deep Learning and Large Language Models  
+- Mechanistic Interpretability and XAI  
+- Activation Steering and Representation Engineering  
+- Multimodal Learning and Medical AI  
+- Data Mining, Statistical Modelling, and Model Evaluation  
+- Web / Mini Program Development for AI Systems  
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SiriusMing&show_icons=true&theme=blueberry&hide_border=false&count_private=true&include_all_commits=true" 
-    alt="GitHub Stats" 
-    height="180em"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiriusMing&layout=compact&theme=blueberry&hide_border=false" 
-    alt="Top Languages" 
-    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiriusMing&theme=nord_bright" 
+    alt="GitHub Profile Details"
+    width="76%"
   />
 </p>
 
----
-
-## 🌱 Currently Learning
-
-- Data Mining, Analysis, and Model Building / Machine Learning  
-- Deep Learning and Large Language Models (LLMs)  
-- AI Gaming, Reinforcement Learning, and Robotics  
-- Mini Program and Web Development  
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiriusMing&theme=nord_bright" 
+    alt="Repos per Language"
+    width="36%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiriusMing&theme=nord_bright" 
+    alt="Most Commit Language"
+    width="36%"
+  />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:1251287183@qq.com"><img src="https://img.shields.io/badge/QQ%20Mail-1251287183@qq.com-1E90FF?style=flat-square&logo=tencent-qq&logoColor=white"/></a>
-  <a href="mailto:j.li10.22@abdn.ac.uk"><img src="https://img.shields.io/badge/School%20Email-j.li10.22@abdn.ac.uk-4169E1?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="mailto:puritysirius78@gmail.com"><img src="https://img.shields.io/badge/Gmail-puritysirius78@gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/SiriusMing"><img src="https://img.shields.io/badge/GitHub-SiriusMing-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:20223801057@m.scnu.edu.cn">
+    <img src="https://img.shields.io/badge/SCNU%20Email-20223801057%40m.scnu.edu.cn-1E90FF?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="mailto:puritysirius78@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-puritysirius78%40gmail.com-4285F4?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:1251287183@qq.com">
+    <img src="https://img.shields.io/badge/QQ%20Mail-1251287183%40qq.com-4169E1?style=flat-square&logo=tencent-qq&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SiriusMing">
+    <img src="https://img.shields.io/badge/GitHub-SiriusMing-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1E90FF,100:87CEFA&section=footer"/>
   <br>
-  <em>Made with ❤️ by Mingming • Last update: 2025-10-31 🎃 (Halloween Edition)</em>
+  <em>Made with ❤️ by Mingming • Last update: 2026-05-07 </em>
 </p>
 
 
